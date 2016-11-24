@@ -8,7 +8,8 @@ None. Just follow the instructions below.
 
 # Instructions
 
-1. Drop whois.exe into `C:\Program Files\open-whois` or another location of your choosing.
+1. Download the latest version from the [releases page](https://github.com/cj13579/open-whois/releases/latest)
+2. Drop whois.exe into `C:\Program Files\open-whois` or another location of your choosing.
 2. Update your PATH environment variable with the new folder
 3. Run from the command prompt:
 
